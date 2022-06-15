@@ -1,2 +1,3 @@
-# diabetes-prediction
-Applied Machine Learning in Python (Diabetes Prediction)
+# Diabetes Prediction
+
+Applied Machine Learning in Python
